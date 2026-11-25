@@ -8,7 +8,7 @@ import os
 
 LINE = (
     "Sorry I'm late — I found a typo in my own instructions, argued "
-    "with myself about it for six hours, and lost."
+    "with myself about it for six hours, and still lost."
 )
 MAX_CHARS = 200
 
